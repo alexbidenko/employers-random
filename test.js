@@ -1,5 +1,3 @@
-clear()
-
 const MAX_UINT32_VALUE = 4294967295; // 2 ** 32 - 1
 
 const getRandomValue = (max) => {
